@@ -1,1 +1,1 @@
-# Exmaple1
+# Example1
